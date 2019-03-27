@@ -9,6 +9,8 @@ html, body {
 }
 
 #output {
-  padding: 20px;
+  padding: 40px;
+  font-size: 100px;
+  font-family: "SF Mono", monospace;
   text-align: center;
 }
